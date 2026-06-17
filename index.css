@@ -4,14 +4,10 @@ body{
     background-color: rgba(250, 248, 99, 0.87);
     font-family: Inter, Sans, sans-serif;
     /*margin: 35px;*/
-    padding:5px;
+    padding:25px;
     color: #2f57b6;
     min-height:70vh;
     box-sizing: border-box;
-}
-
-#idez{
-    padding:20px;
 }
 
 .flex{
@@ -48,7 +44,7 @@ a{
     color: #2f57b6;
     font-family: Inter, sans-serif;
     background-image: url('washi.png');
-    background-size: 315px;
+    background-size: cover;
     background-position: center;
     font-size: 23px;
 }
