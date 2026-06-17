@@ -1,13 +1,15 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     background-color: rgba(250, 248, 99, 0.87);
     font-family: Inter, Sans, sans-serif;
     /*margin: 35px;*/
     padding:5px;
     color: #2f57b6;
     min-height:90vh;
-    font-weight: 300px;
+    font-weight: 300;
         box-sizing: border-box;
 }
 
