@@ -10,6 +10,10 @@ body{
     box-sizing: border-box;
 }
 
+#idez{
+    padding:20px;
+}
+
 .flex{
     min-height: 70vh;
     display: flex;
