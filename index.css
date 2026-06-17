@@ -1,7 +1,6 @@
 body{
     background-color: rgba(250, 248, 99, 0.87);
     font-family: Inter, Sans, sans-serif;
-    font-weight: thiner;
     margin: 35px;
     padding:5px;
     color: #2f57b6;
@@ -92,4 +91,9 @@ div{
         width: 100%;
         height: auto;
     }
+    h1{
+        font-size: 45px;
 }
+    h2{
+        font-size: 35px;
+    }
