@@ -1,16 +1,13 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body{
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     background-color: rgba(250, 248, 99, 0.87);
     font-family: Inter, Sans, sans-serif;
     /*margin: 35px;*/
     padding:5px;
     color: #2f57b6;
     min-height:90vh;
-    font-weight: 300;
-        box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .flex{
@@ -21,6 +18,7 @@ body{
 }
 
 h1{
+    font-weight: 200;
     padding: 25px;
     font-size: 38px;
     width: 100%;
@@ -28,6 +26,7 @@ h1{
 }
 
 h2{
+    font-weight: 200;
     padding:25px;
     text-align: center;
     font-size: 28px;
@@ -110,17 +109,23 @@ div{
     body{
         width: 100%;
         height: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
     }
     h1{
         font-size: 55px;
+        font-weight: 200;
     }
     h2{
         font-size: 45px;
+        font-weight: 200;
     }
     a, label, h3{
         font-size: 35px;
+        font-weight: 200;
     }
     button, input{
         font-size: 30px;
+        font-weight: 200;
     }
 }
