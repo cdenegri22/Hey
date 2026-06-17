@@ -1,6 +1,7 @@
 body{
     background-color: rgba(250, 248, 99, 0.87);
     font-family: Inter, Sans, sans-serif;
+    font-weight: thiner;
     margin: 35px;
     padding:5px;
     color: #2f57b6;
@@ -25,7 +26,6 @@ span{
 
 a{
     text-decoration: none;
-    margin:20px;
     padding: 7px;
     text-align: center;
     color: #2f57b6;
@@ -81,7 +81,6 @@ footer{
 }
 
 div{
-    margin: 20px;
     padding:10px;
     display: flex;
     justify-content: center;
